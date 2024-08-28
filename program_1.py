@@ -1,6 +1,10 @@
+# AUTHOR: Trevor Conger UNWSP
+# DATE: 8/28/24
+# TITLE: HELLO PYTHON
+
+
+# This is a function to print "Hello World" 
 def hello_world():
-    # Update the message below to say "Hello World", 
-    # Python cares about white space, so watch your indentation.
-    print('Hello world')
+    print('Hello World')
 
 hello_world()
