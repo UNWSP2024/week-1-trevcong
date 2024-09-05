@@ -5,6 +5,6 @@
 
 # This is a function to print "Hello World" 
 def hello_world():
-    print('Hello World\n')
+    print('Hello World')
 
 hello_world()
